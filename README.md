@@ -75,7 +75,7 @@ We may update this privacy policy to reflect changes in our practices or for leg
 By continuing to use "Feather Friends," you acknowledge and agree to the terms outlined in this privacy policy.
 
 
-**Privacy Policy for Squishy Fidget**
+# **Privacy Policy for Squishy Fidget**
 
 Squishy Fidget does not collect or store any personal data from its users. The app does not require any permissions, including access to your device's camera, microphone, or location.
 
