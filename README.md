@@ -25,6 +25,10 @@ Welcome to "Feather Friends," an idle mobile game developed by Kittenbean Studio
 - Device type and operating system
 - IP address
 - In-game behavior data
+- Approximate location
+
+To make a request that your personal data be deleted, please contact DPO@unity3d.com
+More info can be found directly on [Unity's site.](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 **Please note that we comply with the Children's Online Privacy Protection Act (COPPA), and Unity's ad services are also COPPA-compliant.**
 
