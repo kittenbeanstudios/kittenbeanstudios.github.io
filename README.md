@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# kittenbeanstudios.github.io
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# **Privacy Policy for Feather Friends**
 
-## Available Scripts
+Last updated: October 11, 2023
 
-In the project directory, you can run:
+**Introduction**
 
-### `npm start`
+Welcome to "Feather Friends," an idle mobile game developed by Kittenbean Studios. At Kittenbean Studios, we are committed to protecting your privacy and ensuring a safe and enjoyable gaming experience. This privacy policy outlines how we collect, use, and store your information within the game.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Information We Collect**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Local Storage Data
+   
+"Feather Friends" does not save any user data online. We only collect and store data locally on your device, such as:
 
-### `npm test`
+- Game progress and achievements
+- Preferences and settings
+- In-game currency and items
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Advertising
+   
+"Feather Friends" serves optional advertisements through the Unity Ad Network. We may collect data for ad targeting and analytics purposes, such as:
 
-### `npm run build`
+- Device type and operating system
+- IP address
+- In-game behavior data
+- Approximate location
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To make a request that your personal data be deleted, please contact DPO@unity3d.com
+More info can be found directly on [Unity's site.](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Please note that we comply with the Children's Online Privacy Protection Act (COPPA), and Unity's ad services are also COPPA-compliant.**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. In-App Purchases
+   
+"Feather Friends" offers in-app purchases that allow you to enhance your gaming experience. These purchases are processed through Unity's In-App Purchase (IAP) package. We do not collect or store any payment or financial information related to your in-app purchases.
 
-### `npm run eject`
+**How We Use Your Information**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+We use the data collected within "Feather Friends" for the following purposes:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- To provide and improve the game's functionality and user experience.
+- To offer you relevant and personalized advertisements through the Unity Ad Network.
+- To analyze in-game behavior data to make gameplay enhancements.
+- To process in-app purchases securely through Unity IAP.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Data Sharing**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+We do not share your data with third parties, except as required by law or to comply with our legal obligations. Unity's privacy practices also apply to data collected through Unity services.
 
-## Learn More
+**Unity Services**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+*Unity Analytics*
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+We use Unity Analytics to gather data related to in-game behavior and player interactions. Unity Analytics complies with data protection regulations.
 
-### Code Splitting
+*Unity Ads*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Unity Ads are displayed within the game. Please refer to Unity's privacy policy for information on how Unity Ads collect and process data: [Unity Privacy Policy](https://unity.com/legal/game-player-and-app-user-privacy-policy).
 
-### Analyzing the Bundle Size
+**Security**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+We take the security of your data seriously. We have implemented reasonable measures to protect your information from unauthorized access or disclosure.
 
-### Making a Progressive Web App
+**Your Choices**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- You can disable or limit ad tracking in your device settings to prevent personalized advertisements.
+- You can manage in-app purchase settings through your device's app store settings.
 
-### Advanced Configuration
+**Contact Us**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+If you have any questions or concerns about this privacy policy or the data we collect within "Feather Friends," please contact us at kittenbeanstudios@gmail.com.
 
-### Deployment
+**Changes to This Privacy Policy**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+We may update this privacy policy to reflect changes in our practices or for legal and regulatory reasons. Any updates will be posted on this page with a new "Last updated" date.
 
-### `npm run build` fails to minify
+By continuing to use "Feather Friends," you acknowledge and agree to the terms outlined in this privacy policy.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# **Privacy Policy for Squishy Fidget**
+
+Squishy Fidget does not collect or store any personal data from its users. The app does not require any permissions, including access to your device's camera, microphone, or location.
+
+Squishy Fidget has only one function, which is to play a sound when the user presses a button. The app does not track or record any user activity or interactions.
+
+Squishy Fidget does not use any third-party services, such as advertising or analytics providers. The app does not share any data with any third-party services.
+
+The developers of Squishy Fidget at Kittenbean Studios are committed to protecting the privacy and security of its users. If you have any questions or concerns about our privacy practices, please contact us at kittenbeanstudios@gmail.com
