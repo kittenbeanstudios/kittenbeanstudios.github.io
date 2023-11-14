@@ -1,5 +1,3 @@
-# kittenbeanstudios.github.io
-
 # **Privacy Policy for Feather Friends**
 
 Last updated: October 11, 2023
