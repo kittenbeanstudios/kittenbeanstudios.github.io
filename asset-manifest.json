@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.56678717.css",
-    "main.js": "/static/js/main.9efa6417.js",
+    "main.css": "/static/css/main.1b55462b.css",
+    "main.js": "/static/js/main.76c42144.js",
     "static/js/787.63039ba2.chunk.js": "/static/js/787.63039ba2.chunk.js",
-    "static/media/README.md": "/static/media/README.abba95f4023c4d2dffb4.md",
+    "static/media/catfight.png": "/static/media/catfight.75b527c7c0114d0d3eda.png",
+    "static/media/sleepingCats.png": "/static/media/sleepingCats.c6b65fab4997481f95c0.png",
+    "static/media/misoloaf.png": "/static/media/misoloaf.c7643da355cfceb1017e.png",
+    "static/media/somiCreeping.png": "/static/media/somiCreeping.10a4b51bc01794dc78d3.png",
+    "static/media/somi.png": "/static/media/somi.7c044c5143ede8085389.png",
+    "static/media/miso.png": "/static/media/miso.50ae9d738fbcd3c1f01e.png",
+    "static/media/starTile.png": "/static/media/starTile.f8034694c5870fd754d6.png",
+    "static/media/wordlogo.png": "/static/media/wordlogo.31c68d340138ecd5231b.png",
+    "static/media/colorPawLogo.png": "/static/media/colorPawLogo.3ea67a9d34be97bbeb32.png",
+    "static/media/FeatherFriends.md": "/static/media/FeatherFriends.3bc3a1659a554c5e1e45.md",
     "index.html": "/index.html",
-    "main.56678717.css.map": "/static/css/main.56678717.css.map",
-    "main.9efa6417.js.map": "/static/js/main.9efa6417.js.map",
+    "static/media/SquishyFidget.md": "/static/media/SquishyFidget.8e90b79d27f27608c3c4.md",
+    "main.1b55462b.css.map": "/static/css/main.1b55462b.css.map",
+    "main.76c42144.js.map": "/static/js/main.76c42144.js.map",
     "787.63039ba2.chunk.js.map": "/static/js/787.63039ba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56678717.css",
-    "static/js/main.9efa6417.js"
+    "static/css/main.1b55462b.css",
+    "static/js/main.76c42144.js"
   ]
 }
