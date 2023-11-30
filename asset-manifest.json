@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa0f3169.css",
-    "main.js": "/static/js/main.601311a7.js",
+    "main.css": "/static/css/main.96d82582.css",
+    "main.js": "/static/js/main.861b6f50.js",
     "static/js/787.63039ba2.chunk.js": "/static/js/787.63039ba2.chunk.js",
     "static/media/catfight.png": "/static/media/catfight.75b527c7c0114d0d3eda.png",
     "static/media/sleepingCats.png": "/static/media/sleepingCats.c6b65fab4997481f95c0.png",
@@ -12,15 +12,16 @@
     "static/media/starTile.png": "/static/media/starTile.f8034694c5870fd754d6.png",
     "static/media/wordlogo.png": "/static/media/wordlogo.31c68d340138ecd5231b.png",
     "static/media/colorPawLogo.png": "/static/media/colorPawLogo.3ea67a9d34be97bbeb32.png",
+    "static/media/appstorebadge.png": "/static/media/appstorebadge.a297c868d206d18af5c3.png",
     "static/media/FeatherFriends.md": "/static/media/FeatherFriends.3bc3a1659a554c5e1e45.md",
     "index.html": "/index.html",
     "static/media/SquishyFidget.md": "/static/media/SquishyFidget.8e90b79d27f27608c3c4.md",
-    "main.aa0f3169.css.map": "/static/css/main.aa0f3169.css.map",
-    "main.601311a7.js.map": "/static/js/main.601311a7.js.map",
+    "main.96d82582.css.map": "/static/css/main.96d82582.css.map",
+    "main.861b6f50.js.map": "/static/js/main.861b6f50.js.map",
     "787.63039ba2.chunk.js.map": "/static/js/787.63039ba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa0f3169.css",
-    "static/js/main.601311a7.js"
+    "static/css/main.96d82582.css",
+    "static/js/main.861b6f50.js"
   ]
 }
